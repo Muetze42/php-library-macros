@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "NormanHuth\\Library\\": ""
+            "NormanHuth\\Library\\": "src/"
         }
     },
     "authors": [
@@ -15,7 +15,8 @@
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/support": "^10.0|^11.0"
+        "illuminate/support": "^10.0|^11.0",
+        "norman-huth/php-library-class-finder": "^1.0-rc.1"
     },
     "require-dev": {
         "illuminate/http": "^10.0|^11.0",
