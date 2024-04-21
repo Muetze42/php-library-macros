@@ -16,10 +16,9 @@
     "require": {
         "php": "^8.2",
         "illuminate/support": "^10.0|^11.0",
-        "norman-huth/php-library-class-finder": "^1.0-rc.1"
+        "norman-huth/php-library-class-finder": "^1.0"
     },
     "require-dev": {
-        "illuminate/http": "^10.0|^11.0",
-        "laravel/pint": "^1.15"
+        "illuminate/http": "^10.0|^11.0"
     }
 }
